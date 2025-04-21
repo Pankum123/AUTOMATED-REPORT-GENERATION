@@ -37,4 +37,6 @@ In summary, this project offers a practical solution for handling textual data b
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/8183ba65-6b4a-4759-8a43-e2f4c1d99bef)
+
 
